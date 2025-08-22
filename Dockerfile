@@ -18,4 +18,4 @@ EXPOSE 5173
 
 # Command to run the application in development mode
 # CMD ["npm", "run", "dev"]
-npm run dev
+RUN npm run dev
