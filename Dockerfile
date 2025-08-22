@@ -17,4 +17,5 @@ COPY . .
 EXPOSE 5173
 
 # Command to run the application in development mode
-CMD ["npm", "run", "dev"]
+# CMD ["npm", "run", "dev"]
+npm run dev
