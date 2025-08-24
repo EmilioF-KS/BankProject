@@ -1,5 +1,4 @@
 # .dockerignore
 node_modules
-app
 app/node_modules
 README.md
